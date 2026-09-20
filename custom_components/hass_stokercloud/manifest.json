@@ -1,5 +1,5 @@
 {
-  "domain": "hass_stokercloud",
+  "domain": "ha_stokercloud",
   "name": "NBE Stoker Cloud",
   "version": "0.0.1",
   "documentation": "https://github.com/KristianOellegaard/homeassistant-stokercloud",
